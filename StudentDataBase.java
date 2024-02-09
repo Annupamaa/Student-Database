@@ -15,7 +15,7 @@ class Student{
         this.age = age;
         this.marks = marks;
     }
-
+//ViewStudents
     public void viewStudent(){
         System.out.println("Name : " + name);
         System.out.println("Roll No. : " + rollNo);
